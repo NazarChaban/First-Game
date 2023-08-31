@@ -154,4 +154,4 @@ while playing:
     #БАЛИ
     main_display.blit(FONT.render(str(score), True, COLOR_BLACK), (WIDTH-50, 20))
 
-s    p.display.flip()
+    p.display.flip()
